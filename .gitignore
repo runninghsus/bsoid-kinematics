@@ -1,0 +1,6 @@
+figures
+notebooks/.ipynb_checkpoints
+data
+.DS_Store
+.jupyter
+.idea
